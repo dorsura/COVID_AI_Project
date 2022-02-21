@@ -6,7 +6,7 @@
 ### Installation Guide
 
 ```bash
-$ git clone https://github.com/Eyallotan/COVID_AI_Project.git
+$ git clone https://github.com/dorsura/COVID_AI_Project.git
 $ cd COVID_AI_Project
 $ set up a virtual env
 $ run "pip install -r txt.libs" 
